@@ -1,0 +1,12 @@
+# Compiled Java class files
+*.class
+
+# NetBeans specific build folders and private settings
+build/
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# OS generated files
+.DS_Store
+Thumbs.db
